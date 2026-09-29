@@ -15,6 +15,22 @@ Setup, variables, data types, operators, type casting, conditionals, and simple 
 - **Day 4**: Nested-loop patterns — right triangle, inverted triangle, number pattern, alphabet pattern.
 - **Day 5**: Primes in a range, even/odd count in a range, a logic revision set (sum of squares, GCD, digit count).
 
+## Week 3: Methods and Arrays
+
+- **Day 1**: Number logic test, method basics, method parameters, method overloading.
+- **Day 2**: Array input/output, sum and average, max and min, linear search.
+- **Day 3**: Reverse array, sort array, second largest element, duplicate elements.
+- **Day 4**: Utility methods, array menu application, method and array practice sets.
+- **Day 5**: Mini console tool, method-name refactor, folder cleanup, weekly README.
+
+## Week 4: Strings and Object-Oriented Programming
+
+- **Day 1**: Methods and arrays test, string reverse, string palindrome, count vowels and consonants.
+- **Day 2**: Character frequency, remove spaces, word count, string comparison.
+- **Day 3**: Class and object basics, constructors, methods inside a class, student result application.
+- **Day 4**: Employee, Product, and BankAccount classes, encapsulation introduction.
+- **Day 5**: Mini student management app, string and OOP practice sets, weekly README.
+
 ## Structure
 
 Each task lives in its own folder: `weekN/dayM-task-name/TaskClassName.java`.
