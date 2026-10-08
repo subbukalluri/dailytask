@@ -31,6 +31,14 @@ Setup, variables, data types, operators, type casting, conditionals, and simple 
 - **Day 4**: Employee, Product, and BankAccount classes, encapsulation introduction.
 - **Day 5**: Mini student management app, string and OOP practice sets, weekly README.
 
+## Week 5: Inheritance, Interfaces, and OOP Keywords
+
+- **Day 1**: OOP basics test, inheritance basics, method overriding, `super` keyword.
+- **Day 2**: `this` keyword and constructor chaining, abstract class, interface basics, multiple interfaces.
+- **Day 3**: Access modifiers (across two packages), `static` keyword, `final` keyword, wrapper classes.
+- **Day 4**: Command line arguments, polymorphism demo, refactored bank account app, OOP documentation notes.
+- **Day 5**: Library management mini project, its refactored version, project README, and the final version.
+
 ## Structure
 
 Each task lives in its own folder: `weekN/dayM-task-name/TaskClassName.java`.
